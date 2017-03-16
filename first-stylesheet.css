@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>biography style sheet</title>
+  <style>
+    html { font-size: 16px; }
+
+    .background-color {
+      background-color: #696969;
+    }
+
+    .adventures-title {
+      color:#4B0082;
+      text-align: center;
+      font-weight: bold;
+      font-size: 4rem;
+    }
+
+    .list-names {
+      color:#FF1493;
+      font-weight: bold;
+      font-size: 2rem;
+    }
+
+    .list-links {
+      color:#FF1493;
+      font-weight: bold;
+      font size: 2rem;
+    }
+
+    .index-biography-background {
+      background-color:#E9967A;
+    }
+
+    .Robyns-title {
+      font-weight: bold;
+      text-decoration: underline;
+      text-align: center;
+      text-shadow:  4px 4px #CD5C5C;
+      font-size: 3rem;
+    }
+
+    .Robyns-headers {
+      font-weight: bold;
+      text-align: center;
+      text-shadow: 4px 4px #CD5C5C;
+    }
+
+    .Robyns-list {
+      font-style: italic;
+      text-shadow: 2px 2px #CD5C5C;
+
+    }
+
+    p::first-letter {
+      font-size: 3rem;
+      text-shadow: 2px 2px #CD5C5C;
+    }
+    ]
+  </style>
